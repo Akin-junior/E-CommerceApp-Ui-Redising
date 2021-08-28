@@ -9,6 +9,7 @@ import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import * as Font from 'expo-font';
 import LastPage from './screens/LandingPages/LastPage';
 import LoginPage from './screens/LandingPages/LoginPage';
+import Home from './screens/HomeElements/Home';
 
 const Stack = createNativeStackNavigator();
 
@@ -43,6 +44,7 @@ export default function App() {
           <Stack.Screen name="PageTwo" component={PageTwo} />
           <Stack.Screen name="LastPage" component={LastPage} />
           <Stack.Screen name="LoginPage" component={LoginPage} />
+          <Stack.Screen name="HomePage" component={Home} />
 
         </Stack.Navigator>
       </NavigationContainer>

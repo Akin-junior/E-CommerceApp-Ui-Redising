@@ -25,7 +25,7 @@ export class LoginPage extends Component {
           
             <View style={styles.registerButtonView}>
             <TouchableOpacity onPress={()=>{
-                
+                 this.props.navigation.navigate("HomePage")
             }}>
             <Text textAlign="left" style={styles.registerButtonText}>Login</Text>
             </TouchableOpacity>
@@ -72,7 +72,7 @@ const styles = StyleSheet.create({
         
     },
     registerButtonView:{
-        backgroundColor:"#000DAE",
+        backgroundColor:"black",
         borderRadius:5,
         borderWidth:1,
         width:"100%",

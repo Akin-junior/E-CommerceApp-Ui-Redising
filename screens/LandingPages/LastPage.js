@@ -79,7 +79,7 @@ const styles = StyleSheet.create({
         
     },
     registerButtonView:{
-        backgroundColor:"#000DAE",
+        backgroundColor:"black",
         borderRadius:5,
         borderWidth:1,
         width:"100%",
