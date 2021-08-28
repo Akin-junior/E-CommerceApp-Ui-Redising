@@ -19,7 +19,7 @@ E commerce App örnek UI Adobe XD çalışmasının React Native ile baştan tas
 ![other pages:](https://i.pinimg.com/564x/40/f8/a4/40f8a414639a2bae84b555bc46d724c7.jpg)
 
 # Projenin Son Halinden Görseller
-![home](https://i.pinimg.com/564x/34/d3/1a/34d31a0cd8a22b27770cc787e573b97a.jpg )
+![home](https://i.pinimg.com/564x/58/e3/2b/58e32b33a65bb7db88765e9c0e6bb779.jpg )
 ![loginNow](https://i.pinimg.com/564x/81/c9/52/81c9520475cfb7ab4b0e487660c92d56.jpg)
 
 ![signuoNow](https://i.pinimg.com/564x/c7/bf/d8/c7bfd8177fd06c7d49358eaac40eeba1.jpg)
