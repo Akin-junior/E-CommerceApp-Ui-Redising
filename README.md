@@ -14,6 +14,6 @@ E commerce App örnek UI Adobe XD çalışmasının React Native ile baştan tas
 
 #Örnek Referans Fotoğraflar
 
-![login sayfası:](https://www.hizliresim.com/1qgwsd4)
+![login sayfası:](https://i.pinimg.com/originals/5c/23/ff/5c23ff26df1298a398472395973f4e00.jpg)
 
-![other pages:](https://www.hizliresim.com/44aver3)
+![other pages:](https://i.pinimg.com/564x/40/f8/a4/40f8a414639a2bae84b555bc46d724c7.jpg)
